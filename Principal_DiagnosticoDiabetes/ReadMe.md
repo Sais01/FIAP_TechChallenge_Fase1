@@ -1,3 +1,4 @@
+'
 
 # Tech Challenge - Fase 1: Suporte ao Diagnóstico Médico
 
@@ -27,6 +28,6 @@ Para garantir a compatibilidade e execução sem erros de dependências, utilize
    ```
 4. Acesse o link gerado no terminal (ex: http://127.0.0.1:8888/lab?token=...) no seu navegador e abra o arquivo *notebook.ipynb*
 
-## Estrutura do Projeto
+## Vídeo do Projeto
 
-Vídeo: Inserir link quando eu fizer o vídeo
+[youtu.be/ZOFzEL4ISxM](https://youtu.be/ZOFzEL4ISxM)
