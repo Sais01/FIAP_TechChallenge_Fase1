@@ -29,4 +29,4 @@ Para garantir a compatibilidade e execução sem erros de dependências, utilize
 
 ## Vídeo do Projeto
 
-[youtu.be/ZOFzEL4ISxM](https://youtu.be/ZOFzEL4ISxM)
+[youtu.be/lAvrpq78rk0](https://youtu.be/lAvrpq78rk0)
